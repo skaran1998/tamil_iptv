@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BB7",BB7
+https://vdo.panelchs.com:3763/stream/play.m3u8
+
+#EXTINF:-1 group-title="BB7",BB7
+https://tamiltoonweb.com/BB7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BB7",BB7
+https://video-weaver.ymq03.hls.ttvnw.net/v1/playlist/CpUFujKbuWh_0t_BxOsvyUrXgRmOJfeHkDU2_CVRCRIkmSiZllh_WnMQxc8cAibmMZyIo-N1pCkZRXsRLQviUmM8CjrlLQZyPouZEanoT9e7ts4WA2XJ_u-tpafZXY-3rOdPpVn7uc4_Ochj9xlEMk_bUYEAta085sHFtwFVSi8UAQb1o-M0itlJK5oHISFLvvqu_fGYFk2RzF2tavmOjg4CwxPLRMG44IsvLB6UsEVfxKj6avjxR4hfeBqxq6Nmm85Nc-19HNULxnIhP-npch4ThMzTAhYQf3TFJuLfadmUNlldN4s6jh9aLMGC4S0kvAQNN1xVB7vrDZ3KaOunHmfmvkEpYvmC5BXaSeNfa4nRFruaTm1BqKzbsm1hCU-s9-mOt268Dcg3nkQNaMGJPh7tjPzWVODnhDKfk1H0gbYy8RHIHMkbXxj0VgoRGdtCk4C2E7yZdRUuF5xvbWFw654zrKphMhtQt_oT5mDijfeno_hJB-Qg3efiM3d26H_uivVWzYyTQHVHbdv-r77bh0SxqBInz1fU0uPQ3rWQ9e9MfwiMIM6IsTegColc6f1yrsAzyUQDUVt8Zuce4OwcZfQjJQE8qLqmpzgc3pdiGs5WL7D-y1iXr9Cj7l4q50MsDLN1gZgPleQUlzj7QlrXUjDPMjFQRiF3MrFI3-ZBQiTvxlCeoJXikljMFNmSqFryc30Zgtp3zGZxIdL7yQfiXAJUqax9uIXz_OPMa2cVfsj8h4AWLp5rDG4Fkk0ggXR1NkLNBshBZpuBZXxbVm6TNWFFoigT_nR5RMinHqZkvyZB-huZ_Q9XEBXGJjHnuzr47RJx25MOVjSLTQcvW-5zlnhFAl3-ecMRfqPCBDSwlPtmQMyVHdmekBoMn1Rh0NbozPUAHxN_IAEqCXVzLXdlc3QtMjCOCA.m3u8
+
+#EXTINF:-1 group-title="Sun News",Sun News
+https://jio.tamilbulbtv.online/stream.m3u8?chunks=59c197c3fa80d91624fb72ddd0c1a5cd1101760daaf130f42695b7f30d6e90c3c823569f3dee097280cc931ee5d72efd9c0f3526a314b7f02e1f7eb0b245186e9fcdeff0fe73b583ac0580219148163104bc424f11faccc2e7277195a1b3318e7baebec5e93a277a5fcc5e1e436f61d7e1d8a45f89e708b1eb474184c7e47e6bfe44897434d4f988020659136114bcba&itoken=4a34a67ad0db405c4c0eeac4378f4084b44d4659af2795c111a121ee528dbaebc2620661a41f7e553be343f8d54b080776049b27e55707e0e5d858d91821195e87dedc87c8d23a597626549615607ad7
+
+#EXTINF:-1 group-title="TVI HD",TVI HD
+https://live.tamilvision.tv/TVI/HD/chunks.m3u8
+
+#EXTINF:-1 group-title="IBC Tamil",IBC Tamil CA
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Start Vijay",Vijay TV UK
+https://yuppftalive.akamaized.net/040622/starvijay/040622/starvijay_2500/chunks.m3u8
+
+#EXTINF:-1 group-title="Start Vijay",Vijay TV
+https://yuppftalive.akamaized.net/040622/starvijay/playlist.m3u8
+
+#EXTINF:-1 group-title="CDN_IBC_Pakidi",CDN_IBC_Pakidi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Colors_Tamil_HD",Colors_Tamil_HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/Colors_Tamil_HD_voot_MOB-audio_98835_tam=98800-video=1173600.m3u8
+
+#EXTINF:-1 group-title="Jaya TV",Jaya TV
+https://jio.tamilbulbtv.online/stream.m3u8?chunks=59c197c3fa80d91624fb72ddd0c1a5cd4222606acde8939d197d51b7558bcddbcfc4a232e25568ecc1ebac28bf4639b4be46349a276ce9d00ce28685fbd7dacf6bee54afd142e043e1ed58a4fef165935156a1f4333394960ced114670108a05a860be23758c880a7e44f1a8e3047edbdcc507d08015d2ac870ab1ee8ab3475ef4659b1deb060225b00a75f26969255ac093cb90e43a2a6c04aaf325a7ffe46f&itoken=d9063a28abc9b97fa03612970e111f44f5e17260ba6073efa3fcb9f4b07760842642785b5a69a12515721b1ba4e634f54712edfc3243044ce4dd399c690e56112084e0bdb5999104d584be8ac624fd6b
+
+#EXTINF:-1 group-title="Tamil One",Tamil One
+https://yuppftalive.akamaized.net/250723/smil:tamilone.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 group-title="Zee Tamil",Zee Tamil
+https://m2.ballnaja.com:8443/ZEETAMIL/playlist.m3u8
+
+#EXTINF:-1 group-title="Zee Tamil",Zee Tamil
+https://jio.tamilbulbtv.online/stream.m3u8?id=628&itoken=d343ccb082e1ece767d16621a45e7896863bbdfac732fbc219b99ff63657ffe6d2b2c87fcffb049fd9b43dbda8b98f8e49a61e0751b4ba196560b9e892b4e1a6b71059a0ede6ea6114ba370533a6522d&e=.m3u8
+
+#EXTINF:-1 group-title="Shakthi TV",Shakthi TV
+https://edge4-moblive.yuppcdn.net/transsd/smil:shakthitv.smil/chunklist_w1618940807_b596000.m3u8
+
+#EXTINF:-1 group-title="Makkal TV",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="News7 ",News 7
+https://segment.yuppcdn.net/240122/news7/240122/news7_1800/chunks.m3u8
+
+#EXTINF:-1 group-title="Polimer News",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
+
+#EXTINF:-1 group-title="Puthiya Yukam",Puthiya Yukam
+https://segment.yuppcdn.net/240122/puthiya/240122/puthiya_1800/chunks.m3u8
+
+#EXTINF:-1 group-title="Puthiya Yukam",Puthiya Yukam
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/70fa8c49-57e9-42ce-a24c-c56828d5918d/0.m3u8
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/radWIeb.png" group-title="Music",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+
+#EXTINF:-1 group-title="Eet TV",EeTV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 group-title="IBC Isai",IBC Isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sun TV",Sun TV
+https://jio.tamilbulbtv.online/stream.m3u8?chunks=59c197c3fa80d91624fb72ddd0c1a5cd5ef85483329f952986f938be165b0763828bc7cec1daa1db2f6f7b08ff0b99315d83331d65d7dbef4f7ae15508ed5e46c0aa6ef14a62a1c7d4d43c67d442dbc6d323827fa38a515ebcba911e9a03fa736d735ea6eb12fe5276e2c50be575a0f512813e039822c665d038f011bdc2d2cfe318bcf74b7536d9301469030d38dcbeff58803fb08aa9fd72aa9b91cc3d1575&itoken=1cd44598304122c5b5eaa1fb42f45d8a78d3568d5e5db9ff9ab86dcb8de5b34fdb3de76c172974998206074941cf05430ec2bf242f93c1d3e0542e5e9c18426b6e8680773d97cb5b5bafc66864c544b9
