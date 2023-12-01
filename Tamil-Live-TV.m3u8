@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BB7",BB7
+#EXTINF:-1 group-title="BB7" tvg-logo="https://github.com/skaran1998/tamil_iptv/blob/main/Logos/BB7.png",BB7
 https://vdo.panelchs.com:3763/stream/play.m3u8
 
-#EXTINF:-1 group-title="BB7",BB7
+#EXTINF:-1 group-title="BB7" tvg-logo="https://github.com/skaran1998/tamil_iptv/blob/main/Logos/BB7.png",BB7
 https://tamiltoonweb.com/BB7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BB7",BB7
+#EXTINF:-1 group-title="BB7" tvg-logo="https://github.com/skaran1998/tamil_iptv/blob/main/Logos/BB7.png",BB7
 https://video-weaver.ymq03.hls.ttvnw.net/v1/playlist/CpUFujKbuWh_0t_BxOsvyUrXgRmOJfeHkDU2_CVRCRIkmSiZllh_WnMQxc8cAibmMZyIo-N1pCkZRXsRLQviUmM8CjrlLQZyPouZEanoT9e7ts4WA2XJ_u-tpafZXY-3rOdPpVn7uc4_Ochj9xlEMk_bUYEAta085sHFtwFVSi8UAQb1o-M0itlJK5oHISFLvvqu_fGYFk2RzF2tavmOjg4CwxPLRMG44IsvLB6UsEVfxKj6avjxR4hfeBqxq6Nmm85Nc-19HNULxnIhP-npch4ThMzTAhYQf3TFJuLfadmUNlldN4s6jh9aLMGC4S0kvAQNN1xVB7vrDZ3KaOunHmfmvkEpYvmC5BXaSeNfa4nRFruaTm1BqKzbsm1hCU-s9-mOt268Dcg3nkQNaMGJPh7tjPzWVODnhDKfk1H0gbYy8RHIHMkbXxj0VgoRGdtCk4C2E7yZdRUuF5xvbWFw654zrKphMhtQt_oT5mDijfeno_hJB-Qg3efiM3d26H_uivVWzYyTQHVHbdv-r77bh0SxqBInz1fU0uPQ3rWQ9e9MfwiMIM6IsTegColc6f1yrsAzyUQDUVt8Zuce4OwcZfQjJQE8qLqmpzgc3pdiGs5WL7D-y1iXr9Cj7l4q50MsDLN1gZgPleQUlzj7QlrXUjDPMjFQRiF3MrFI3-ZBQiTvxlCeoJXikljMFNmSqFryc30Zgtp3zGZxIdL7yQfiXAJUqax9uIXz_OPMa2cVfsj8h4AWLp5rDG4Fkk0ggXR1NkLNBshBZpuBZXxbVm6TNWFFoigT_nR5RMinHqZkvyZB-huZ_Q9XEBXGJjHnuzr47RJx25MOVjSLTQcvW-5zlnhFAl3-ecMRfqPCBDSwlPtmQMyVHdmekBoMn1Rh0NbozPUAHxN_IAEqCXVzLXdlc3QtMjCOCA.m3u8
 
 #EXTINF:-1 group-title="Sun News",Sun News
