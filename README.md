@@ -1,5 +1,5 @@
-# tamil_iptv
+                                                            Tamil_Iptv
 Tamil Live TV play list 
 
-# Copy this link to play the m3u8 play list
-https://raw.githubusercontent.com/skaran1998/tamil_iptv/main/Tamil-Live-TV.m3u8
+Usage
+Paste this URL: https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u8 to any player which supports M3U playlists
